@@ -2,7 +2,7 @@
 
 
 <h1> Repositório de projetos em HTML </h1>
-Este repositório contém projetos de aprendizagem retirados do MDN web docs sobre HTML.
+Este repositório contém projetos de aprendizagem de HTML, retirados do MDN web docs.
 O aprendizado no MDN tem grande foco em acessibilidade, otimização e métodos mais atualizados das linguagens. <br><br>
 
 
