@@ -1,4 +1,4 @@
-<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20HTML%20images/README.en.md"> README</a></span>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20HTML%20images/README.en.md"> README</a></span>
 
 <h1>Teste de habilidades: Imagens HTML</h1>
 
@@ -14,7 +14,7 @@
 </ul>
 
 <strong>Veja abaixo</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20HTML%20images/index.html"> Renderizar </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20HTML%20images/index.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML/Test_your_skills:_HTML_images"> HTML images </a>

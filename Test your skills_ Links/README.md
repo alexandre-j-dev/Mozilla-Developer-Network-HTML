@@ -1,4 +1,4 @@
-<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20Links/README.en.md"> README</a></span>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20Links/README.en.md"> README</a></span>
 
 <h1>Teste de habilidades: Links</h1>
 
@@ -17,7 +17,7 @@
   
  
 <strong>Veja abaixo</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20Links/index.html"> Renderizar </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20Links/index.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links"> Links </a><br>
