@@ -16,7 +16,7 @@
   
  
 <strong>Veja abaixo</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20Multimedia%20and%20embedding/index.html"> Renderizar </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/main/Test%20your%20skills_%20Multimedia%20and%20embedding/index.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content/Test_your_skills:_Multimedia_and_embedding"> Multimedia and embedding </a><br>

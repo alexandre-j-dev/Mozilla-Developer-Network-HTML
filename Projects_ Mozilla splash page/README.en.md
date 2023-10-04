@@ -76,7 +76,7 @@ Validator:
 
   
 <strong>See it below</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/HTML/Projects_%20Mozilla%20splash%20page/index.html"> Render </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/main/Projects_%20Mozilla%20splash%20page/index.html"> Render </a><br>
 
 <strong>MDN conclusion projects</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page#starting_point"> Mozilla splash page </a>
