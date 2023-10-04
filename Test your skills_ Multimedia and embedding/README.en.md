@@ -1,4 +1,4 @@
-<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Test%20your%20skills_%20Multimedia%20and%20embedding"> README</a></span>
+<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/tree/HTML/Test%20your%20skills_%20Multimedia%20and%20embedding"> README</a></span>
 
 <h1>Test your skills: Multimedia and embedding</h1>
 
@@ -16,7 +16,7 @@
   
  
 <strong>See it below</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills_%20Multimedia%20and%20embedding/index.html"> Render </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20Multimedia%20and%20embedding/index.html"> Render </a><br>
 
 <strong>MDN skill tests</strong><br>
  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content/Test_your_skills:_Multimedia_and_embedding">  Multimedia and embedding </a><br>

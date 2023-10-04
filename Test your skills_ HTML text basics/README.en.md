@@ -1,4 +1,4 @@
-<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Test%20your%20skills_%20HTML%20text%20basics"> README</a></span>
+<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/tree/HTML/Test%20your%20skills_%20HTML%20text%20basics"> README</a></span>
 
 <h1>Test your skills: HTML text basics </h1>
 
@@ -13,7 +13,7 @@
 </ul>
 
 <strong>See it below</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills_%20HTML%20text%20basics/index.html"> Render </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20HTML%20text%20basics/index.html"> Render </a><br>
 
 <strong>MDN skill tests</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics"> HTML text basics </a>

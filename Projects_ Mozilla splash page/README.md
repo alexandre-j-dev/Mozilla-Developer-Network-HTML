@@ -1,4 +1,4 @@
-<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects_%20Mozilla%20splash%20page/README.en.md"> README</a></span>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Projects_%20Mozilla%20splash%20page/README.en.md"> README</a></span>
 
 <h1> Resumo do projeto </h1>
 
@@ -71,7 +71,7 @@ Validador:
 <a href="https://validator.w3.org">W3C HTML Checker</a>  <br><hr>
   
 <strong>Veja abaixo</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects_%20Mozilla%20splash%20page/index.html"> Renderizar </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Projects_%20Mozilla%20splash%20page/index.html"> Renderizar </a><br>
 
 <strong>Projetos de conclusão MDN</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page"> Mozilla splash page </a>

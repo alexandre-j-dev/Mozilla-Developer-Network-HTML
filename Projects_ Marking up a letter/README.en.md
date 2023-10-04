@@ -1,4 +1,4 @@
-<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Projects_%20Marking%20up%20a%20letter"> README</a></span>
+<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/tree/HTML/Projects_%20Marking%20up%20a%20letter"> README</a></span>
 
 <h1> Project brief </h1>
 
@@ -65,7 +65,7 @@ Validator:
 <a href="https://validator.w3.org">W3C HTML Checker</a>  <br><hr>
   
 <strong>See it below</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects_%20Marking%20up%20a%20letter/index.html"> Render </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Projects_%20Marking%20up%20a%20letter/index.html"> Render </a><br>
 
 <strong>MDN conclusion projects</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter"> Marking up a letter </a>

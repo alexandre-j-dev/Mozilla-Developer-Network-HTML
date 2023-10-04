@@ -1,4 +1,4 @@
-<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills_%20Advanced%20HTML%20text/README.en.md"> README</a></span>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20Advanced%20HTML%20text/README.en.md"> README</a></span>
 
 <h1>Teste de habilidades: Textos avançados HTML</h1>
 
@@ -15,7 +15,7 @@
 </ul>
 
 <strong>Veja abaixo</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills_%20Advanced%20HTML%20text/index.html"> Renderizar </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20Advanced%20HTML%20text/index.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Advanced_HTML_text"> Advanced HTML text </a>
