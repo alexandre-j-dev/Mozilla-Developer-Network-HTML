@@ -1,0 +1,45 @@
+
+/* Task 1 and 3 CSS */
+
+h1, h2 {
+    color: purple;
+  }
+  
+  p {
+    color: gray;
+  }
+
+  strong {
+    color: purple;
+  }
+  
+  em {
+    color: gray;
+  }
+  
+  /* Task 2 CSS */
+  
+  ul {
+    border: 2px solid orange;
+  }
+  
+  ol {
+    border: 2px solid purple;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
+  
+  /* Custom */
+
+  .title { 
+    text-decoration: underline;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+   }

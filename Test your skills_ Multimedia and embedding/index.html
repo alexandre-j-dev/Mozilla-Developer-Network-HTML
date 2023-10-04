@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="author" content="alexandre-j-dev">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multimedia and embedding</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="https://developer.mozilla.org/favicon-48x48.cbbd161b.png">
+</head>
+
+<body>
+  
+<!-- Task 1:
+In this task, we want you to embed a simple audio file onto the page. You need to:
+Add the path to the audio file to an appropriate attribute to embed it on the page. The audio is called audio.mp3, and it is in a folder inside the current folder called media.
+Add an attribute to make browsers display some default controls.
+Add some appropriate fallback text for browsers that don't support <audio>. -->
+
+<h1>Basic audio embed</h1>
+&lt;empty audio&gt; <br>
+
+<!-- Answer 1 -->
+<span class="title"> Done </span><br>
+
+<audio controls>
+  <source src="media/audio.mp3" type="audio/mp3" >
+  <p>
+    Your browser doesn't support this audio file. Here is a
+    <a href="media/audio.mp3">link to the audio</a> instead.
+  </p> 
+</audio>    
+  
+<hr> <!-- line -->
+
+
+<!-- Task 2:
+In this task, we want you to mark up a slightly more complex video player, with multiple sources, subtitles, and other features besides. You need to:
+Add an attribute to make browsers display some default controls.
+Add some appropriate fallback text for browsers that don't support <video>.
+Add multiple sources, containing the paths to the video files. The files are called video.mp4 and video.webm, and are in a folder inside the current folder called media.
+Let the browser know in advance what video formats the sources point to, so it can make an informed choice of which one to download ahead of time.    
+Give the <video> a width and height equal to its intrinsic size (320 by 240 pixels).
+Make the video muted by default.
+Display the text tracks contained in the media folder, in a file called subtitles_en.vtt, when the video is playing. You must explicitly set the type as subtitles, and the subtitle language to English.
+Make sure the readers can identify the subtitle language when they use the default controls.
+-->
+
+<h1>Video embed</h1>
+&lt;empty video&gt; <br>
+
+<!-- Answer 2 -->
+<span class="title"> Done </span><br>
+
+<video controls width="320" height="240" muted>
+    <source src="media/video.mp4" type="video/mp4" >
+    <source src="media/video.webm" type="video/webm" >
+
+    <track kind="subtitles"
+           srclang="en"
+           src="media/subtitles_en.vtt"
+           label="English" >
+
+    <p>
+        Your browser doesn't support this video. Here is a
+        <a href="media/video.mp4">link to the video</a> instead.
+    </p>
+</video>
+
+<hr> <!-- line -->
+
+
+<!-- Task 3
+In this task, we want you to:
+Embed a PDF into the page. The PDF is called mypdf.pdf, and is contained in the media folder.
+Go to a sharing site like YouTube or Google Maps, and embed a video or other media item into the page. -->
+
+<h1>Embedding</h1>
+
+<!-- Answer 3 -->
+<span class="title"> Done </span>
+
+<p> PDF embed here </p> 
+<p> <q>If you need to display PDFs, it's usually better to link to them, rather than embedding them in the
+    page.</q> 
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies#the_embed_and_object_elements">
+    <cite> MDN embedding tutorial </cite></a>
+</p>
+
+<!-- <object data="media/mypdf.pdf" type="application/pdf" width="580" height="400"> 
+  <p>
+    You don't have a PDF plugin, but you can
+    <a href="media/mypdf.pdf">download the PDF file. </a>
+  </p>
+</object> --> <br> 
+
+<p> 3rd party embed here </p>
+<iframe sandbox="allow-same-origin allow-scripts" width="500" height="315" src="https://www.youtube.com/embed/U_xoICJChu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</body>
+</html>

@@ -1,0 +1,36 @@
+
+/* Task 1 and 3  CSS */
+
+p {
+  color: gray;
+  margin: 0.5em 0;
+}
+
+/* Task 2 CSS */
+
+h1 {
+  font-size: 2rem;
+  margin: 0;
+  color: purple;
+}
+
+li {
+  color: gray;
+  margin: 0.5em 0;
+}
+
+div {
+  height: 500px;
+}
+
+/* Custom */
+
+.title {
+  text-decoration: underline;
+  display: block;
+  font-weight: bold;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
