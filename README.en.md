@@ -1,8 +1,8 @@
 
-<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network"> README</a></span>
+<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML"> README</a></span>
 
 
-<h1>Repository of exercises and documentation notes from MDN</h1>
+<h1>Repository of HTML projects</h1>
 
 This repository contains HTML learning projects taken from MDN web docs. Learning on MDN has strong emphasis on accessibility, optimization, and the most up-to-date methods.<br><br>
 
