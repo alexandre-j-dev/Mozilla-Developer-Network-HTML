@@ -1,4 +1,4 @@
-<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/tree/HTML/Test%20your%20skills_%20HTML%20text%20basics"> README</a></span>
+<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/tree/main/Test%20your%20skills_%20HTML%20text%20basics"> README</a></span>
 
 <h1>Test your skills: HTML text basics </h1>
 

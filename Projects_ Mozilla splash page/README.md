@@ -1,4 +1,4 @@
-<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/HTML/Projects_%20Mozilla%20splash%20page/README.en.md"> README</a></span>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/main/Projects_%20Mozilla%20splash%20page/README.en.md"> README</a></span>
 
 <h1> Resumo do projeto </h1>
 

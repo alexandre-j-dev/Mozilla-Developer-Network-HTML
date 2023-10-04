@@ -1,4 +1,4 @@
-<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/HTML/Projects_%20Structuring%20planet%20data/README.en.md"> README</a></span>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network-HTML/blob/main/Projects_%20Structuring%20planet%20data/README.en.md"> README</a></span>
 
 <h1> Resumo do projeto </h1>
 

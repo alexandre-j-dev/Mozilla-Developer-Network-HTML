@@ -1,4 +1,4 @@
-<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/HTML/Test%20your%20skills_%20Advanced%20HTML%20text/README.en.md"> README</a></span>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/main/Test%20your%20skills_%20Advanced%20HTML%20text/README.en.md"> README</a></span>
 
 <h1>Teste de habilidades: Textos avançados HTML</h1>
 

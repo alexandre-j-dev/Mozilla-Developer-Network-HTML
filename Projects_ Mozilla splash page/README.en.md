@@ -1,4 +1,4 @@
-<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/tree/HTML/Projects_%20Mozilla%20splash%20page"> README</a></span>
+<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/tree/main/Projects_%20Mozilla%20splash%20page"> README</a></span>
 
 <h1> Project brief </h1>
 
