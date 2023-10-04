@@ -1,4 +1,4 @@
-<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/main/README.en.md"> README</a></span><br>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/Mozilla-Developer-Network-HTML/blob/main/README.en.md"> README</a></span><br>
 
 
 <h1> Repositório de projetos em HTML </h1>
