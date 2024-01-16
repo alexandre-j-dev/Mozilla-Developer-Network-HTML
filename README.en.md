@@ -4,9 +4,9 @@
 
 <h1>Repository of HTML projects</h1>
 
-This repository contains HTML learning projects taken from MDN web docs. Learning on MDN has strong emphasis on accessibility, optimization, and the most up-to-date methods.<br><br>
+This repository contains learning projects extracted from the MDN Web Docs. Learning on MDN has a strong focus on accessibility, optimization, and the most up-to-date methods.
 
-The MDN Web Docs is an open-source, collaborative project documenting Web platform technologies, including CSS, HTML, JavaScript, and Web APIs. We also provide an extensive set of learning resources for beginning developers and students.
+MDN Web Docs is a collaborative open-source project that documents web technologies, including CSS, HTML, JavaScript, APIs, etc. They also provide a comprehensive set of learning resources for beginners and developers.
 <br><br>
 
  <img src="https://i.imgur.com/BRdIN0r.png" width="100%" height="220px" align="center"/>
